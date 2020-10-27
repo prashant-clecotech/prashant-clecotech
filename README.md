@@ -39,7 +39,7 @@
 
 Hi, I'm Prashant Vishwakarma, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@rails](https://github.com/rails), Working at Clecotech 👨🏽‍💼[@Clecotech](https://clecotech.com/). Beside's programming, I enjoy listening Music and Traveling.
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/manish-shrivastava/manish-shrivastava/master/code.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/prashant-clecotech/prashant-clecotech/main/code.gif" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
 
