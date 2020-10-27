@@ -14,7 +14,7 @@
 <a href="http://stackoverflow.com/users/1133932/manish-shrivastava">
   <img align="left" alt="Prashant's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a> -->
-<a href="https://github.com/manish-shrivastava">
+<a href="https://github.com/prashant-clecotech">
   <img align="left" alt="Prashant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <!-- <a href="http://www.flickr.com/photos/manish-shrivastava">
