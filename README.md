@@ -33,7 +33,7 @@
   <img align="left" alt="Prashant's Tumblr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tumblr.svg" />
 </a> -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=er.manishshrivastava.er.manishshrivastava)
+![](https://visitor-badge.glitch.me/badge?page_id=prashant-vishwakarma.prashant-vishwakarma)
 
 <br />
 
@@ -57,10 +57,6 @@ Hi, I'm Prashant Vishwakarma, a Full Stack Developer 🚀 from India, currently,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <details>
 <summary>📈 My GitHub Stats</summary>
